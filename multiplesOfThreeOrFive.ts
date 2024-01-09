@@ -1,8 +1,6 @@
 export class Challenge {
   solution(num: number): number {
-    if (num <= 0) {
-      return 0;
-    }
+    if (num <= 0) return 0;
 
     let mult: number[] = [];
 
