@@ -8,9 +8,7 @@ export class Challenge {
       let MULTIPLE_OF_THREE = i % 3 === 0;
       let MULTIPLE_0F_FIVE = i % 5 === 0;
 
-      if (MULTIPLE_OF_THREE || MULTIPLE_0F_FIVE) {
-        mult.push(i);
-      }
+      if (MULTIPLE_OF_THREE || MULTIPLE_0F_FIVE) mult.push(i);
     }
 
     return mult.reduce((a: number, c: number) => a + c);
