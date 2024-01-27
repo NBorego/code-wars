@@ -1,0 +1,15 @@
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/bin/Debug/net8.0/sentence-smash
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/bin/Debug/net8.0/sentence-smash.deps.json
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/bin/Debug/net8.0/sentence-smash.runtimeconfig.json
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/bin/Debug/net8.0/sentence-smash.dll
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/bin/Debug/net8.0/sentence-smash.pdb
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/obj/Debug/net8.0/sentence-smash.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/obj/Debug/net8.0/sentence-smash.AssemblyInfoInputs.cache
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/obj/Debug/net8.0/sentence-smash.AssemblyInfo.cs
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/obj/Debug/net8.0/sentence-smash.csproj.CoreCompileInputs.cache
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/obj/Debug/net8.0/sentence-smash.sourcelink.json
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/obj/Debug/net8.0/sentence-smash.dll
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/obj/Debug/net8.0/refint/sentence-smash.dll
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/obj/Debug/net8.0/sentence-smash.pdb
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/obj/Debug/net8.0/sentence-smash.genruntimeconfig.cache
+/home/nicolasborego/Documentos/code/code-wars/c-sharp/sentence-smash/obj/Debug/net8.0/ref/sentence-smash.dll
