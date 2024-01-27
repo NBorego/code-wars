@@ -1,0 +1,15 @@
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/bin/Debug/net8.0/convertStringNumber
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/bin/Debug/net8.0/convertStringNumber.deps.json
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/bin/Debug/net8.0/convertStringNumber.runtimeconfig.json
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/bin/Debug/net8.0/convertStringNumber.dll
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/bin/Debug/net8.0/convertStringNumber.pdb
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/obj/Debug/net8.0/convertStringNumber.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/obj/Debug/net8.0/convertStringNumber.AssemblyInfoInputs.cache
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/obj/Debug/net8.0/convertStringNumber.AssemblyInfo.cs
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/obj/Debug/net8.0/convertStringNumber.csproj.CoreCompileInputs.cache
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/obj/Debug/net8.0/convertStringNumber.sourcelink.json
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/obj/Debug/net8.0/convertStringNumber.dll
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/obj/Debug/net8.0/refint/convertStringNumber.dll
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/obj/Debug/net8.0/convertStringNumber.pdb
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/obj/Debug/net8.0/convertStringNumber.genruntimeconfig.cache
+/home/nicolasborego/Documentos/code/code-wars/csharp/convert-string-to-number/obj/Debug/net8.0/ref/convertStringNumber.dll
