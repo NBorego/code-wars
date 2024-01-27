@@ -1,0 +1,15 @@
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/bin/Debug/net8.0/makeUppercase
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/bin/Debug/net8.0/makeUppercase.deps.json
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/bin/Debug/net8.0/makeUppercase.runtimeconfig.json
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/bin/Debug/net8.0/makeUppercase.dll
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/bin/Debug/net8.0/makeUppercase.pdb
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/obj/Debug/net8.0/makeUppercase.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/obj/Debug/net8.0/makeUppercase.AssemblyInfoInputs.cache
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/obj/Debug/net8.0/makeUppercase.AssemblyInfo.cs
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/obj/Debug/net8.0/makeUppercase.csproj.CoreCompileInputs.cache
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/obj/Debug/net8.0/makeUppercase.sourcelink.json
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/obj/Debug/net8.0/makeUppercase.dll
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/obj/Debug/net8.0/refint/makeUppercase.dll
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/obj/Debug/net8.0/makeUppercase.pdb
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/obj/Debug/net8.0/makeUppercase.genruntimeconfig.cache
+/home/nicolasborego/Documentos/code/code-wars/csharp/make-to-uppercase/obj/Debug/net8.0/ref/makeUppercase.dll
