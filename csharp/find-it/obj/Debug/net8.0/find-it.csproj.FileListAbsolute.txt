@@ -1,0 +1,15 @@
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/bin/Debug/net8.0/find-it
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/bin/Debug/net8.0/find-it.deps.json
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/bin/Debug/net8.0/find-it.runtimeconfig.json
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/bin/Debug/net8.0/find-it.dll
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/bin/Debug/net8.0/find-it.pdb
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/obj/Debug/net8.0/find-it.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/obj/Debug/net8.0/find-it.AssemblyInfoInputs.cache
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/obj/Debug/net8.0/find-it.AssemblyInfo.cs
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/obj/Debug/net8.0/find-it.csproj.CoreCompileInputs.cache
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/obj/Debug/net8.0/find-it.sourcelink.json
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/obj/Debug/net8.0/find-it.dll
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/obj/Debug/net8.0/refint/find-it.dll
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/obj/Debug/net8.0/find-it.pdb
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/obj/Debug/net8.0/find-it.genruntimeconfig.cache
+/home/nicolasborego/Documentos/code/code-wars/csharp/find-it/obj/Debug/net8.0/ref/find-it.dll
