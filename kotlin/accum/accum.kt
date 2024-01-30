@@ -14,6 +14,9 @@ fun accum(s: String): String {
   return words.joinToString("-")
 }
 
+// fun accum(s:String):String = s.mapIndexed { index, char -> char.toUpperCase() +
+// char.toString().toLowerCase().repeat(index) }.joinToString("-")
+
 fun main() {
   println(accum("abcd"))
 }
