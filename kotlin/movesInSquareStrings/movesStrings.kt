@@ -11,7 +11,7 @@ object Opstrings {
     return str.reversed().joinToString("\n")
   }
 
-  fun oper(operator: (String) -> String ,s: String): String {
+  fun oper(operator: (String) -> String, s: String): String {
     return operator(s)
   }
 }
